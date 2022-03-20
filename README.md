@@ -2,7 +2,7 @@
 
 ## Description
 
-This project demonstrates customer segmentation through the RFM technique. 
+A demonstration of market segmentation using the RFM technique. Analytics performed in SQL and data visualization in Google Data Studio. 
 
 Full medium article can be found [here](https://medium.com/towards-data-science/a-simple-way-to-segment-customers-using-google-bigquery-and-data-studio-f31c8896cc52) 
 
